@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Rudra Pandey
+# 💫 Hi 👋, I'm Rudra Pratap Pandey
 **BCA Student | Software Engineer in Making <br>Skilled in C++, Python, DSA & Problem Solving <br>Passionate About Technology & Innovation**
 
 
